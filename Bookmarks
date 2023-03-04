@@ -1,0 +1,70 @@
+{
+   "checksum": "7585113ae6757c6c100b59ca0e7de25a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13322132061258314",
+            "date_last_used": "0",
+            "guid": "c6f2e288-8637-43fe-bd79-1c22c9a68854",
+            "id": "10",
+            "name": "Power Apps | Home",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://make.powerapps.com/"
+         }, {
+            "date_added": "13322132068558259",
+            "date_last_used": "0",
+            "guid": "46846bec-3cdd-4fea-8dd0-741783478fe7",
+            "id": "11",
+            "name": "Azure Portal",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.azure.com/"
+         }, {
+            "date_added": "13322132073043599",
+            "date_last_used": "0",
+            "guid": "4da023fd-1621-4ac0-874b-3b9a1566df52",
+            "id": "12",
+            "name": "Microsoft 365 admin center",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://admin.microsoft.com/"
+         } ],
+         "date_added": "13313497813391109",
+         "date_last_used": "0",
+         "date_modified": "13322132073043599",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13313497813391112",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13313497813391113",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpsBCh4IiIECEgjm92QshgEAACoOEAAYASAAKAQwADgAQAASABpYSDNGeXFLNnk3YVFuWCsrVitoTzl3Z2R5aWx2TURxR1NESmtHOXMxL1dRdEtlY0Z4N0FvL1ZjdzZlSmhwd25DUUltWkk2UDhrZXBxeFh2QmlOTzZQL1E9PSABKhhmZU1HYkRvUFNqUDBjVFUwcGF6cllnPT2gBgASrAEIDBKnAQocK3czS3ZZUHY1UjJqaE9lYXN2RU5DQkM5R0RZPRIkNGRhMDIzZmQtMTYyMS00YWMwLTg3NGItM2I5YTE1NjZkZjUyGAAgBSgAMP///////////wE41YTz4ekwQK7x9OHpMEocWCtaa1dPR3lZM2YrL1J1TEl6RjVOU0p3V1hVPVofIh3teiswNkxqY3ArbUVmaGxmVXNlVUhWQXZtNUpvPWWko5R4EqwBCAoSpwEKHHAwZExESFRVWG5TamRYQzhHOS83MUw3ck0xbz0SJGM2ZjJlMjg4LTg2MzctNDNmZS1iZDc5LTFjMjJjOWE2ODg1NBgAIAUoADD///////////8BOMqo8uHpMECEg/Th6TBKHHdud0JyS3JndTRTYUxOSWNiaVlTcEw3emxyUT1aHyIdtSsyWTZHK2J1R1VjdXBnSnFNRURqcmxHYjhxaz1lDZTCDRKsAQgLEqcBChxUQVpjWDlCYll5bytDR0xMRko2eENWNkRFWTQ9EiQ0Njg0NmJlYy0zY2RkLTRmZWEtOGRkMC03NDE3ODM0NzhmZTcYACAFKAAw////////////ATjP4fLh6TBA17/14ekwShw0TGVDN0NYVG5SVlY1em1FRFB3WjhLaFloMm89Wh8iHdo4Q2ZQejRJbEp3a000Qk9seDBwUkpWM1cxeTA9ZdKhbF4SiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkZjM2NTVjYTUtMmNlOS01NWQ3LWE2ZWEtMjVhNzI1ZTFmNzliGAAgACgAMPK15MzJMDjNu+TMyTBAzbvkzMkwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRiYTZkMWM1NS1kNmFhLTU1MWItYTViYi0yMTNjODk3OWQ4NmYYACAAKAAw7LXkzMkwONa45MzJMEDWuOTMyTBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDc1YTUwNzk0LTI2YzAtNTk5Yy05MWM5LTRlNmJhZGYwMTY5ZhgAIAAoADDtteTMyTA4hbnkzMkwQIW55MzJMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASpgESowEKHG1MRjlmTWVkQ2xZM2VNaXU3V3BobVJXWWJrdz0SJGJlOWI2NTIxLTE3OWItNDQ5Ni1hOWYyLTI1MTk1MjYxZWE0ORgBIAQoAzDG5pHj4jA4gtuQ4+IwQK7XkePiMEocR1pPampzWGJPZG90cVF2ZlJ6YjlxS3J1djFNPVoeIhxPd1M2WWp2cW1IZDJ5angwOGRJRVJ0WXNRQlU9mAEAqAECEqcBEqQBChxiRnhESllEek9GTXFWNEpIZDVaTDU2eTlNRFk9EiQ3MzY2ZDdlYS03NTExLTQ4NmItYTI3OS1lMDhjMGZhYmYwYjEYASADKAIwx+aR4+IwOIfkkePiMECi5JHj4jBKHG9iMmZaWnNqY0JMb1F0d3dQV1ViNTBEWFgxOD1aHyIdpzNBUzBmOE90cDNuOEFEZkZ3clhqNklSdEYxTT2YAQCoAQISpwESpAEKHG9mbGVWWDM5Q1ZSSkNocUI4RTBpRFRIL0Rxaz0SJGJjODUyOWI5LWNlNDYtNGNkNC04NjEwLTQ0MDkwZDgzNTc0YRgBIAMoAjD/g5Lj4jA4yvWR4+IwQKj2kePiMEoceGMzWkx1aE1xYkZ6WlFZbm9CM3pxTjdBYmZjPVofIh3TTG1saW9pMWVoNk1VQ2xyajNlWmJ6cHM3dDNZPZgBAKgBAhKmARKjAQocVnNiNUJBTEpZSksxS3N2amhJRFFxa0h3SThzPRIkZTUwYWZiZGEtZmQxYS00MjZhLWFlNTMtM2NhMjY3ZDczOGNiGAEgAigBMMXmkePiMDit15Hj4jBArdeR4+IwShx0NmlvVnpjNVVwektWeUdmZDNMQkd5RUcwRkU9Wh4iHGpldVprS1FpRmhlNExwU2t3c3Z3OFhlVjBFbz2YAQCoAQIwADgA",
+   "version": 1
+}
