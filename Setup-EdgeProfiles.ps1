@@ -58,8 +58,6 @@ function New-EdgeProfile {
     Pop-Location
 
     Set-EdgePreferences $profilePath $useDefaultValues $createBackup
-    $proc.Start()
-    Start-Sleep -Seconds 5
     Set-EdgeProfile $profilePath $useDefaultValues
 
     Write-Output "Done, you can start browsing with your new profile"
@@ -209,8 +207,11 @@ function Set-EdgeProfile {
         [bool]
         $useDefaultValues = $true
     )
-    Set-EdgeExtensions -useDefaultValues $useDefaultValues
+
     Set-EdgeBookmarks $profilePath -useDefaultValues $useDefaultValues
+    $proc = Start-Process -FilePath "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" -ArgumentList "--profile-directory=$profilePath --no-first-run --no-default-browser-check --flag-switches-begin --flag-switches-end --site-per-process" -PassThru
+    Start-Sleep -Seconds 5 #allow edge to start up
+    Set-EdgeExtensions -useDefaultValues $useDefaultValues
 }
 
 function Set-EdgeExtensions {
