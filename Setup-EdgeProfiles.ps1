@@ -236,7 +236,9 @@ function Set-EdgeExtensions {
             'gijhmcgnnbcpigflkfoimbnfjnbcphah', #Dark Mode Night Eye
             'bbcinlkgjjkejfdpemiealijmmooekmp', #Lastpass
             'ifigbhjamijkipoeckabmilnagjcfhec', #Tango
-            'odfafepnkmbhccpbejgmiehpchacaeak' #ublock
+            'odfafepnkmbhccpbejgmiehpchacaeak', #ublock
+            'hbfacnnpimgddoojjaonnnbeljegicfl', #Use My Current Account
+            'cnlefmmeadmemmdciolhbnfeacpdfbkd' #Grammarly
         );
         $chromeExtensions = @(
             'eadknamngiibbmjdfokmppfooolhdidc' #Dynamics 365 Power Pane
