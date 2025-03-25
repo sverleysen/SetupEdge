@@ -233,15 +233,10 @@ function Set-EdgeExtensions {
             'mdjlgdkgmhlmcikdmeehcecolehipicf', #LevelUp
             'jilmabbdmkbakhjganilpihpakkielnl', #PrettyJSON
             'mdjmgobkbnldmmchokoaefcaldhpdfoi', #SP Rest Json
-            'gijhmcgnnbcpigflkfoimbnfjnbcphah', #Dark Mode Night Eye
             'bbcinlkgjjkejfdpemiealijmmooekmp', #Lastpass
-            'ifigbhjamijkipoeckabmilnagjcfhec', #Tango
-            'odfafepnkmbhccpbejgmiehpchacaeak', #ublock
-            'hbfacnnpimgddoojjaonnnbeljegicfl', #Use My Current Account
-            'cnlefmmeadmemmdciolhbnfeacpdfbkd' #Grammarly
         );
         $chromeExtensions = @(
-            'eadknamngiibbmjdfokmppfooolhdidc' #Dynamics 365 Power Pane
+            'bapdkmlgodmfeddcbminmghfndolfdcf' #Dynamics 365 Power Pane
         );
 
         foreach ($extension in $edgeExtensions) {
