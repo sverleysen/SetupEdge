@@ -233,7 +233,7 @@ function Set-EdgeExtensions {
             'mdjlgdkgmhlmcikdmeehcecolehipicf', #LevelUp
             'jilmabbdmkbakhjganilpihpakkielnl', #PrettyJSON
             'mdjmgobkbnldmmchokoaefcaldhpdfoi', #SP Rest Json
-            'bbcinlkgjjkejfdpemiealijmmooekmp', #Lastpass
+            'bbcinlkgjjkejfdpemiealijmmooekmp' #Lastpass
         );
         $chromeExtensions = @(
             'bapdkmlgodmfeddcbminmghfndolfdcf' #Dynamics 365 Power Pane
